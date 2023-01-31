@@ -12,7 +12,7 @@ Also there are small differences with figma in some cases, used my own judgment 
 
 What can still be improved:
 * If the data will be fetched through api, it would be nice to use observables to fetch additional data based on components visibility on user screen, which helps with improving load time and overall user experience. 
-* Definitely covering all components with tests.
+* Definitely covering all components with tests and add E2E tests with cypress for example
 
 To run simply write:
 ```

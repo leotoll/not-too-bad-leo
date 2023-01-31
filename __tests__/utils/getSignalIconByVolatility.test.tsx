@@ -1,4 +1,4 @@
-import getSignalIconByVolatility from './getSignalIconByVolatility'
+import getSignalIconByVolatility from '../../utils/getSignalIconByVolatility'
 
 describe('getSignalIconByVolatility', () => {
   it('return right icon', () => {
