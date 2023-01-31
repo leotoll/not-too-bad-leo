@@ -1,6 +1,5 @@
 import { memo } from 'react'
 import { type Theme, Box, IconButton, type SxProps } from '@mui/material'
-import Image from 'next/image'
 
 const buttonStyles = {
   position: 'absolute',
