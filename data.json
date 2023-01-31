@@ -1,0 +1,148 @@
+{
+  "games": [
+    {
+      "name": "Beast Mode",
+      "id": "beastmode",
+      "studio": "Relax Gaming",
+      "rtp": 97.0,
+      "volatility": 5,
+      "stats": {
+        "bets": 24890,
+        "games": 639,
+        "maxWin": 2400
+      }
+    },
+    {
+      "name": "Crystal Cavern",
+      "id": "crystalcavern",
+      "studio": "Kalamba",
+      "rtp": 97.62,
+      "volatility": 4,
+      "stats": {
+        "bets": 10073684,
+        "games": 16264,
+        "maxWin": 573576
+      }
+    },
+    {
+      "name": "La Fiesta",
+      "id": "lafiesta",
+      "studio": "Relax Gaming",
+      "rtp": 96.55,
+      "volatility": 4.5,
+      "stats": {
+        "bets": 1834675689,
+        "games": 48427,
+        "maxWin": 387900
+      }
+    },
+    {
+      "name": "Money Cart",
+      "id": "moneycart",
+      "studio": "Relax Gaming",
+      "rtp": 98.0,
+      "volatility": 4,
+      "stats": {
+        "bets": 982847,
+        "games": 4856,
+        "maxWin": 3859
+      }
+    },
+    {
+      "name": "Money Cart 2",
+      "id": "moneycart2",
+      "studio": "Relax Gaming",
+      "rtp": 98.0,
+      "volatility": 5,
+      "stats": {
+        "bets": 5069374,
+        "games": 13475,
+        "maxWin": 61479
+      }
+    },
+    {
+      "name": "Money Mariachi",
+      "id": "moneymariachi",
+      "studio": "ReelPlay",
+      "rtp": 97.06,
+      "volatility": 5,
+      "stats": {
+        "bets": 7983571,
+        "games": 23433,
+        "maxWin": 81223
+      }
+    },
+    {
+      "name": "Money Train",
+      "id": "moneytrain",
+      "studio": "Relax Gaming",
+      "rtp": 96.2,
+      "volatility": 3,
+      "stats": {
+        "bets": 7568412,
+        "games": 11976,
+        "maxWin": 3287
+      }
+    },
+    {
+      "name": "Money Train 2",
+      "id": "moneytrain2",
+      "studio": "Relax Gaming",
+      "rtp": 98.0,
+      "volatility": 5,
+      "stats": {
+        "bets": 71298414,
+        "games": 4556,
+        "maxWin": 23365
+      }
+    },
+    {
+      "name": "Mystery Stacks",
+      "id": "mysterystacks",
+      "studio": "Silverback",
+      "rtp": 95.0,
+      "volatility": 4,
+      "stats": {
+        "bets": 4332497,
+        "games": 57803,
+        "maxWin": 83446
+      }
+    },
+    {
+      "name": "Santa's Stack",
+      "id": "santasstack",
+      "studio": "Relax Gaming",
+      "rtp": 97.0,
+      "volatility": 5,
+      "stats": {
+        "bets": 5790424,
+        "games": 2478,
+        "maxWin": 1874
+      }
+    },
+    {
+      "name": "Star Clusters",
+      "id": "starclusters",
+      "studio": "Big Time Gaming",
+      "rtp": 96.27,
+      "volatility": 5,
+      "stats": {
+        "bets": 71437584,
+        "games": 38989,
+        "maxWin": 4831
+      }
+    },
+    {
+      "name": "Star Pops",
+      "id": "starpops",
+      "studio": "Electric Elephant",
+      "rtp": 96.59,
+      "volatility": 5,
+      "stats": {
+        "bets": 2194988,
+        "games": 192174,
+        "maxWin": 18112
+      }
+    }
+  ]
+}
