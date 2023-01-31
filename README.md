@@ -1,5 +1,5 @@
 # Not bad test task
-Solution was built using next.js and mui, no additional libraries was used.
+Solution was built using next.js and mui, no additional libraries was used. Site is deployed to: [https://not-too-bad-leo.vercel.app](https://not-too-bad-leo.vercel.app/) 
 
 As the data is static it made the most sense to use next.js getStaticProps, so whole website will be ready on build time, which helps a lot with first load. But in real life case data would come from api and it will not be a good choice to use getStaticProps, as we want up to date data on every request, because the game stats may change pretty fast.
 
